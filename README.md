@@ -1,6 +1,6 @@
 # Software needed for workshop
 
-##Anaconda for Python 3.7
+## Anaconda for Python 3.7
 https://www.anaconda.com/download/
 
 ## Setup instructions (Please follow)
