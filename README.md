@@ -21,6 +21,14 @@ and finally
 conda install pillow
 ```
 
+```
+conda install scipy
+```
+
+```
+conda install pandas
+```
+
 If you are using a different package manager or don't require one, then using 
 ```
 pip install
